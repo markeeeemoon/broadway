@@ -13,3 +13,12 @@ html {
   font-weight: bold;
   color: white;
 }
+
+#masthead nav ul {
+  font-size: 18px;
+  list-style-type: none;
+}
+
+#masthead nav ul li {
+  margin-top: 1em;
+}
