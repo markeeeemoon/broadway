@@ -1,9 +1,13 @@
-body {
+html {
   font-family: "Helvetica", sans-serif;
-  text-align:center;
+  text-align: center;
 }
 
 #masthead {
-    background-image: url("https://markeeeemoon.github.io/broadway/resources/images/the-flatiron-building.png");
+    background-image: url("../images/the-flatiron-building.png");
     padding: 1em;
+}
+
+#masthead h1{
+  color: red;
 }
