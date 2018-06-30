@@ -4,6 +4,6 @@ body {
 }
 
 #masthead {
-    background-image: url('../images/the-flatiron-building.png');
+    background-image: url("../images/the-flatiron-building.png");
     padding: 1em;
 }
