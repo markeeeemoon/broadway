@@ -14,11 +14,16 @@ html {
   color: white;
 }
 
-#masthead nav ul {
+#masthead ul {
   font-size: 18px;
   list-style-type: none;
 }
 
-#masthead nav ul li {
+#masthead ul li {
   margin-top: 1em;
+}
+
+#masthead ul li a {
+  text-decoration: none;
+  color: white;
 }
