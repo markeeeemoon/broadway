@@ -28,15 +28,22 @@ html {
   color: white;
 }
 
-#process h2 {
+h2 {
   font-size:32px;
 }
 
-#process h3 {
+h3 {
   font-size:23px;
 }
 
-#process p
+p
 {
   font-size:14px;
+}
+
+#work h2 {
+  background-image: url("/broadway/resources/images/the-flatiron-building.png");
+  font-size:23px;
+  font-weight: bold;
+  color: white;
 }
