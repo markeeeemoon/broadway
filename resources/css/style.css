@@ -28,11 +28,11 @@ html {
   color: white;
 }
 
-h2 {
+#process h2 {
   font-size:32px;
 }
 
-h3 {
+h2, h3 {
   font-size:23px;
 }
 
