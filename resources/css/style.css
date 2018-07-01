@@ -19,11 +19,11 @@ html {
   list-style-type: none;
 }
 
-#masthead ul li {
+#masthead li {
   margin-top: 1em;
 }
 
-#masthead ul li a {
+#masthead a {
   text-decoration: none;
   color: white;
 }
