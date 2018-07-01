@@ -51,4 +51,12 @@ p
 #footer {
   text-align:left;
   background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: white;
+  margin-right: 1em;
 }
