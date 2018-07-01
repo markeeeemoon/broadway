@@ -19,9 +19,9 @@ html {
   list-style-type: none;
 }
 
-/*#masthead ul li {
+#masthead ul li {
   margin-top: 1em;
-}*/
+}
 
 #masthead ul li a {
   text-decoration: none;
