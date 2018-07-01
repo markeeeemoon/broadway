@@ -47,3 +47,8 @@ p
   font-weight: bold;
   color: white;
 }
+
+#footer {
+  text-align:left;
+  background-color: dimgray;
+}
